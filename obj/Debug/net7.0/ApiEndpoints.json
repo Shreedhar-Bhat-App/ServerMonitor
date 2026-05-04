@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ServerMonitor.Controllers.ServerStatusController",
+    "Method": "GetServerStatus",
+    "RelativePath": "api/ServerStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
